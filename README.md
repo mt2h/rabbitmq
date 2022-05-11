@@ -41,6 +41,8 @@ Exchanges
 
 ![Fanout Exchange](./img/7.png)
 
+## Fanout Exange
+
 Add Fanout Exange
 
 ![ AddFanout Exchange](./img/8.png)
@@ -63,3 +65,19 @@ Get messages from the Queue
 ![Get Message](./img/12.png)
 
 ![Get Message](./img/13.png)
+
+## Direct Exange
+
+![Direct Exange](./img/14.png)
+
+![Direct Exange On Rabbit](./img/15.png)
+
+![Queues for Direct Exange On Rabbit](./img/16.png)
+
+![Queue Error On Direct Exange](./img/17.png)
+
+![Queue Error On Direct Exange](./img/18.png)
+
+![Send Message to Direct Exange](./img/19.png)
+
+![Get Message on Direct Exange](./img/20.png)
