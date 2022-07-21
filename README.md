@@ -99,3 +99,17 @@ Get messages from the Queue
 ![Send Message to Topic Exange](./img/27.png)
 
 ![Get Message on Topic Exange](./img/28.png)
+
+## Headers Exchange
+
+![Headers  Exange](./img/29.png)
+
+![Headers Exange On Rabbit](./img/30.png)
+
+![Queue 1 for Headers Exange On Rabbit](./img/31.png)
+
+![Queue 2 for Headers Exange On Rabbit](./img/32.png)
+
+![Send first Message to Exange](./img/33.png)
+
+![Send second Message to Exange](./img/34.png)
